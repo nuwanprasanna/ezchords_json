@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="196"
+    height="66"
+    viewBox="0 0 120 120"
+    style="color:#00d296;"
+    class="mr-2 max-w-36!"
+    role="img">
+
+<style>
+
+
+
+svg {
+    color: #00d296;
+}
+
+svg [fill="#00d296"] {
+    fill: #00d296 !important;
+}
+
+svg [stroke="#00d296"] {
+    stroke: #00d296 !important;
+}
+
+</style>
+
+<defs>
+
+<g id="chord-piano-Gsharp5"><g><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="0" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="14" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="28" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="42" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="56" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="70" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="84" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="9.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="23.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="51.5" y="0"></rect><rect fill="#00d296" height="40" rx="1" width="9" x="65.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="79.5" y="0"></rect></g><g><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="98" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="112" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="126" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="140" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="154" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="168" y="0"></rect><rect fill="#fff" height="66" rx="1.5" stroke="#939393" stroke-width="0.75" width="14" x="182" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="107.5" y="0"></rect><rect fill="#00d296" height="40" rx="1" width="9" x="121.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="149.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="163.5" y="0"></rect><rect fill="#1b1c1e" height="40" rx="1" width="9" x="177.5" y="0"></rect></g></g>
+
+</defs>
+
+<use
+    href="#chord-piano-Gsharp5"
+    
+></use>
+
+</svg>
